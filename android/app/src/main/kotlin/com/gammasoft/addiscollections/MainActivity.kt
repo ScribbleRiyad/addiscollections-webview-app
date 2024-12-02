@@ -1,4 +1,4 @@
-package com.example.addiscollections
+package com.gammasoft.addiscollections
 
 import io.flutter.embedding.android.FlutterActivity
 
